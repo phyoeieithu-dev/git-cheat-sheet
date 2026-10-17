@@ -2,14 +2,14 @@
 
 - [1. Git branching cheatsheet](#1-git-branching-cheatsheet)
   - [Useful commands](#useful-commands)
-- [1. Merge Strategies](#1-merge-strategies)
+- [2. Merge Strategies](#2-merge-strategies)
   - [A.Fast-forward merge](#afast-forward-merge)
   - [B. Merge commit](#b-merge-commit)
   - [C. Squash merge](#c-squash-merge)
-- [1. Timetravel](#1-timetravel)
+- [3. Timetravel](#3-timetravel)
   - [A. Push ပြီးသား commit ကို undo ပြန်လုပ်ချင်ရင်](#a-push-ပြီးသား-commit-ကို-undo-ပြန်လုပ်ချင်ရင်)
   - [B. Commit ကို ဖြုတ်ချင်ရင်](#b-commit-ကို-ဖြုတ်ချင်ရင်)
-- [Cheatsheet for rebase and merge](#cheatsheet-for-rebase-and-merge)
+- [4. Cheatsheet for rebase and merge](#4-cheatsheet-for-rebase-and-merge)
   - [A. dev ကို main ထဲ merge မယ်](#a-dev-ကို-main-ထဲ-merge-မယ်)
   - [B. dev ကို main ပေါ် rebase မယ်](#b-dev-ကို-main-ပေါ်-rebase-မယ်)
 
@@ -37,7 +37,7 @@ Github မှာတော့ default branch က main ဖြစ်ပါတယ်
 
 ---
 
-# 1. Merge Strategies
+# 2. Merge Strategies
 
 ## A.Fast-forward merge
 
@@ -80,7 +80,7 @@ git commit -m "Merge dev to main"
 
 ---
 
-# 1. Timetravel
+# 3. Timetravel
 
 ## A. Push ပြီးသား commit ကို undo ပြန်လုပ်ချင်ရင်
 
@@ -122,7 +122,7 @@ Reset လုပ်လိုက်တဲ့ commit ကိုရောက်သွ
 
 ---
 
-# Cheatsheet for rebase and merge
+# 4. Cheatsheet for rebase and merge
 
 2 ခုလုံးက branch တစ်ခုခုက changes တွေက်ို branch တစ်ခုမှာ သွားပေါင်းချင်တဲ့ အချိန်မှာသုံးပါတယ်
 

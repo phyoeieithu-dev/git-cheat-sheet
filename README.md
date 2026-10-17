@@ -150,6 +150,6 @@ git rebase main
 ```
 
 - main ကို အခြေပြုပြီး dev က commit တွေက်ို ပြန်တင်ပါတယ်
-- တင်လိုက် commit တွေက id အသစ်နဲ့ ဝင်သွားပါမယ်
+- တင်လိုက်တဲ့ commit တွေက id အသစ်နဲ့ ဝင်သွားပါမယ်
 - Merge commit ထပ်မထွက်ပါဘူး
 - Conflict ကတော့ replay commit တိုင်းမှာ ဖြစ်နိုင်ပါတယ်

@@ -128,8 +128,6 @@ Reset လုပ်လိုက်တဲ့ commit ကိုရောက်သွ
 
 ## A. dev ကို main ထဲ merge မယ်
 
-**Cmd**
-
 ```bash
 git fetch —-all
 git switch main
